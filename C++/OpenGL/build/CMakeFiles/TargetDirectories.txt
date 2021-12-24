@@ -1,0 +1,6 @@
+/home/omega/Projects/WebAssembly/C++/OpenGL/build/CMakeFiles/edit_cache.dir
+/home/omega/Projects/WebAssembly/C++/OpenGL/build/CMakeFiles/rebuild_cache.dir
+/home/omega/Projects/WebAssembly/C++/OpenGL/build/src/CMakeFiles/Library.dir
+/home/omega/Projects/WebAssembly/C++/OpenGL/build/src/CMakeFiles/OpenGL.dir
+/home/omega/Projects/WebAssembly/C++/OpenGL/build/src/CMakeFiles/edit_cache.dir
+/home/omega/Projects/WebAssembly/C++/OpenGL/build/src/CMakeFiles/rebuild_cache.dir
