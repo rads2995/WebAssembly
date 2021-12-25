@@ -1,5 +1,5 @@
 #!/bin/bash
 mkdir -p build
-cmake -S . -B build
+emcmake cmake -S . -B build
 cd build
-make
+emmake make

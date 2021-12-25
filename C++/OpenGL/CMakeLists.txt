@@ -10,5 +10,11 @@ project(OpenGL VERSION 0.1
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
+# Define linker flags for Emscripten
+add_link_options(-s USE_GLFW=3)
+
+# Define executable suffix
+set(CMAKE_EXECUTABLE_SUFFIX ".html")
+
 # The compiled source code resides here
 add_subdirectory(src)

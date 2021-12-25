@@ -4,10 +4,8 @@
 
 # Add external Glad library
 add_library(glad ../lib/src/glad.c)
-target_include_directories(glad PUBLIC ../lib/include/glad/)
+target_include_directories(glad PUBLIC ../lib/include/glad)
 
-# Add source executable
+# Add source executable and link all libraries
 add_executable(${PROJECT_NAME} main.cpp)
-
-# Link local and external libraries to executable
-target_link_libraries(${PROJECT_NAME} PRIVATE glad)
+target_link_libraries(${PROJECT_NAME} PRIVATE glfw glad)
