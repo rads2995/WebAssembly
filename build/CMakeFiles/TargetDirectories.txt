@@ -1,0 +1,3 @@
+/home/omega/Projects/WebAssembly/build/CMakeFiles/Run.dir
+/home/omega/Projects/WebAssembly/build/CMakeFiles/edit_cache.dir
+/home/omega/Projects/WebAssembly/build/CMakeFiles/rebuild_cache.dir
